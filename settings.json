@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "PhoenixSMP-RqYn.aternos.me",
-    "port": 26310,
+    "port": "26310",
     "version": "1.21",
     "try-creative": false
   },
